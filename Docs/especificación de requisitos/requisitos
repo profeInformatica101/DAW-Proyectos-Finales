@@ -1,0 +1,21 @@
+Requisitos Funcionales:   
+
+    Autenticación y Autorización: Inicio de sesión, registro, recuperación de contraseña, cierre de sesión.
+    Gestión de Usuarios: Roles, perfiles, permisos.
+    Gestión de Proyectos: Crear, ver, actualizar, eliminar, adjuntar documentos, integración con blockchain.
+    Gestión de Alumnos: Asignar alumnos, ver información de alumnos.
+    Búsqueda y Filtros: Buscar proyectos, aplicar filtros avanzados.
+    Interacción y Comunicación: Comentarios, notificaciones.
+    Exhibición de Proyectos: Página principal, detalles del proyecto.
+    Exportación e Importación de Datos: Exportar e importar proyectos.
+    Administración del Sistema: Panel de administración, auditoría y registro.
+
+equisitos No Funcionales
+
+    Seguridad: Cifrado de datos, comunicación segura, autenticación multifactor.
+    Rendimiento: Tiempo de respuesta, escalabilidad.
+    Disponibilidad: Tiempo de uptime, recuperación de desastres.
+    Usabilidad: Interfaz intuitiva, accesibilidad.
+    Mantenibilidad: Código modular, documentación.
+    Compatibilidad: Navegadores y dispositivos soportados.
+    Confiabilidad: Gestión de errores, integridad de los datos.
