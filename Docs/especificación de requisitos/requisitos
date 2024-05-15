@@ -10,7 +10,7 @@ Requisitos Funcionales:
     Exportación e Importación de Datos: Exportar e importar proyectos.
     Administración del Sistema: Panel de administración, auditoría y registro.
 
-equisitos No Funcionales
+Requisitos No Funcionales
 
     Seguridad: Cifrado de datos, comunicación segura, autenticación multifactor.
     Rendimiento: Tiempo de respuesta, escalabilidad.
