@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<XMI xmi.version="1.2" timestamp="2024-05-16T09:34:22" verified="false" xmlns:UML="http://schema.omg.org/spec/UML/1.4">
+<XMI xmi.version="1.2" timestamp="2024-05-16T09:49:22" verified="false" xmlns:UML="http://schema.omg.org/spec/UML/1.4">
  <XMI.header>
   <XMI.documentation>
    <XMI.exporter>umbrello uml modeller 2.32.3 http://umbrello.kde.org</XMI.exporter>
@@ -146,7 +146,7 @@
      </UML:Namespace.ownedElement>
      <XMI.extension xmi.extender="umbrello">
       <diagrams resolution="96">
-       <diagram xmi.id="unMH77kQotUN0" name="diagrama de clases" type="1" documentation="" backgroundcolor="#ffffff" fillcolor="#ffffc0" font="Ubuntu,11,-1,5,50,0,0,0,0,0" griddotcolor="#d3d3d3" linecolor="#990000" linewidth="0" textcolor="#000000" usefillcolor="1" showattribassocs="1" showatts="1" showattsig="1" showops="1" showopsig="1" showpackage="1" showpubliconly="0" showscope="1" showstereotype="2" localid="-1" showgrid="0" snapgrid="0" snapcsgrid="0" snapx="25" snapy="25" zoom="80.8696" canvasheight="682.8" canvaswidth="857.3" isopen="1">
+       <diagram xmi.id="unMH77kQotUN0" name="diagrama de clases" type="1" documentation="" backgroundcolor="#ffffff" fillcolor="#ffffc0" font="Ubuntu,11,-1,5,50,0,0,0,0,0" griddotcolor="#d3d3d3" linecolor="#990000" linewidth="0" textcolor="#000000" usefillcolor="1" showattribassocs="1" showatts="1" showattsig="1" showops="1" showopsig="1" showpackage="1" showpubliconly="0" showscope="1" showstereotype="2" localid="-1" showgrid="0" snapgrid="0" snapcsgrid="0" snapx="25" snapy="25" zoom="80" canvasheight="682.8" canvaswidth="857.3" isopen="1">
         <widgets>
          <classwidget xmi.id="uADJPGic9lY3I" localid="usKWgFrakg4Km" textcolor="#000000" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,11,-1,5,50,0,0,0,0,0,Regular" autoresize="1" x="-42299.9" y="25101.1" width="155" height="50" isinstance="0" showstereotype="2" showoperations="1" showpubliconly="0" showopsigs="601" showpackage="1" showscope="1" showattributes="1" showattsigs="601" showstereotype="2"/>
          <classwidget xmi.id="uuSSTqLFyrwnl" localid="u8Y7Z8hviiapG" textcolor="#000000" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,11,-1,5,50,0,0,0,0,0" autoresize="1" x="-42418.7" y="25108.5" width="74" height="40" isinstance="0" showstereotype="2" showoperations="1" showpubliconly="0" showopsigs="601" showpackage="1" showscope="1" showattributes="1" showattsigs="601" showstereotype="2"/>
@@ -328,7 +328,7 @@
      </UML:Namespace.ownedElement>
      <XMI.extension xmi.extender="umbrello">
       <diagrams resolution="96">
-       <diagram xmi.id="uObxFBdZFJZ5X" name="diagrama de casos de uso" type="2" documentation="" backgroundcolor="#ffffff" fillcolor="#ffffc0" font="Ubuntu,11,-1,5,50,0,0,0,0,0" griddotcolor="#d3d3d3" linecolor="#990000" linewidth="0" textcolor="#000000" usefillcolor="1" showattribassocs="1" showatts="1" showattsig="1" showops="1" showopsig="1" showpackage="1" showpubliconly="0" showscope="1" showstereotype="2" localid="-1" showgrid="0" snapgrid="0" snapcsgrid="0" snapx="25" snapy="25" zoom="52.9" canvasheight="984.076" canvaswidth="968.145" isopen="1">
+       <diagram xmi.id="uObxFBdZFJZ5X" name="diagrama de casos de uso" type="2" documentation="" backgroundcolor="#ffffff" fillcolor="#ffffc0" font="Ubuntu,11,-1,5,50,0,0,0,0,0" griddotcolor="#d3d3d3" linecolor="#990000" linewidth="0" textcolor="#000000" usefillcolor="1" showattribassocs="1" showatts="1" showattsig="1" showops="1" showopsig="1" showpackage="1" showpubliconly="0" showscope="1" showstereotype="2" localid="-1" showgrid="0" snapgrid="0" snapcsgrid="0" snapx="25" snapy="25" zoom="52" canvasheight="984.076" canvaswidth="968.145" isopen="1">
         <widgets>
          <usecasewidget xmi.id="uZd4JjhUvSaLh" localid="uFCkxqMTz0e8i" textcolor="#000000" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,11,-1,5,50,0,0,0,0,0" autoresize="1" x="-595.035" y="-6284.59" width="76" height="52" isinstance="0" showstereotype="2"/>
          <usecasewidget xmi.id="uov10m53pSTcS" localid="uvTnw6NtEX9xU" textcolor="#000000" linecolor="#990000" linewidth="0" usefillcolor="1" usesdiagramfillcolor="0" usesdiagramusefillcolor="0" fillcolor="#ffffc0" font="Ubuntu,11,-1,5,50,0,0,0,0,0" autoresize="1" x="-362.906" y="-6271.46" width="88" height="52" isinstance="0" showstereotype="2"/>
